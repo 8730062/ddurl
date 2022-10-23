@@ -21,7 +21,10 @@
 安装环境
 
 # apt-get install wget 
+
 使用命令dd系统
+
+# wget https://github.com/8730062/ddurl/blob/main/installNET
 
 # bash InstallNET.sh -dd http://10.11.11.239:8000/WINDOWS_VIP_WIN7_2012/vip-win7-ent-sp1-x64-cn.vhd.gz
 上面的这个地址，你们可以根据自己的需要，选择NATEE，或者秋水，或者其他的
