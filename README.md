@@ -26,7 +26,7 @@
 
 # wget https://github.com/8730062/ddurl/blob/main/installNET
 
-# bash InstallNET.sh -dd http://10.11.11.239:8000/WINDOWS_VIP_WIN7_2012/vip-win7-ent-sp1-x64-cn.vhd.gz
+# bash InstallNET.sh -dd https://alist.lfcqjd.com/d/ali/Win10.vhd.gz
 上面的这个地址，你们可以根据自己的需要，选择NATEE，或者秋水，或者其他的
 
 SSD/NVMe盘的VPS性能比较好，一般dd速度比较快，dd安装完成，务必及时修改远程桌面的端口，默认账号的密码，默认账号的名称，非常重要，务必不要耽误太久，网络上很多扫3389的爆破机器人
