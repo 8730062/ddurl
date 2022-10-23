@@ -27,7 +27,8 @@
 # wget https://github.com/8730062/ddurl/blob/main/installNET
 
 # bash InstallNET.sh -dd https://alist.lfcqjd.com/d/ali/Win10.vhd.gz
-上面的这个地址，你们可以根据自己的需要，选择NATEE，或者秋水，或者其他的
+默认账户和密码：administrator  www.nat.ee
+在这个地址，你们可以根据自己的需要，选择 NATEE，或者秋水，或者其他的
 
 SSD/NVMe盘的VPS性能比较好，一般dd速度比较快，dd安装完成，务必及时修改远程桌面的端口，默认账号的密码，默认账号的名称，非常重要，务必不要耽误太久，网络上很多扫3389的爆破机器人
 
